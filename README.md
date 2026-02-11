@@ -26,13 +26,13 @@ The project highlights how **interpretable classical vision methods** and **deep
 
 ---
 
-## Technologies Used
+## Frameworks Used
 
 ### Classical Computer Vision
 - Canny Edge Detection  
 - Hough Circle Transform  
 - CIELAB color space  
-- Hungarian Algorithm (assignment problem)
+- Hungarian Algorithm
 
 ### Deep Learning
 - Convolutional Neural Networks (CNNs)  
